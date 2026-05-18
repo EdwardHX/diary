@@ -25,7 +25,7 @@ language = 'zh_CN'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'alabaster'
-html_static_path = ['_static']
+html_static_path = ['Cpp/_static']
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
