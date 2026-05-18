@@ -67,7 +67,7 @@ Home Assistant Companion 安装配置教程
 
 .. figure:: ../_static/sticker_name.jpg
     :align: center
-    :s`cale: 35%
+    :scale: 35%
 
     显示设备名称，方便识别
 
